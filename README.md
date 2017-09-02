@@ -6,4 +6,4 @@
 
 <i>import {Md5} from "./Md5"</i><br>
 
-console.log(Md5('test'));
+console.log(Md5.init('test'));
