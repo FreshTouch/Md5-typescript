@@ -1,0 +1,25 @@
+{
+  "name": "md5-typescript",
+  "version": "1.0.3",
+  "description": "Md5 typescript",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hipparch/Md5-typescript.git"
+  },
+  "keywords": [
+    "md5",
+    "typescript.angular",
+    "angularjs.angular",
+    "2",
+    "typescript"
+  ],
+  "author": "Hipparchus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hipparch/Md5-typescript/issues"
+  },
+  "homepage": "https://github.com/Hipparch/Md5-typescript#readme"
+}

@@ -1,9 +1,13 @@
-<h1>Md5 typescript</h1>
+# Md5 typescript
 
-<i>npm install md5-typescript</i>
+## Install
+<blockquote>
+    npm install md5-typescript -save
+</blockquote>
 
-<b>HOW TO USE</b><br>
+## HOW TO USE
+```typescript
+  import {Md5} from "md5-typescript";
 
-<i>import {Md5} from "./Md5"</i><br>
-
-console.log(Md5.init('test'));
+  console.log(Md5.init('test'));
+```
