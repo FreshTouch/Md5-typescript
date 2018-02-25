@@ -1,6 +1,6 @@
 {
   "name": "md5-typescript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Md5 typescript",
   "scripts": {
     "test": "test"
