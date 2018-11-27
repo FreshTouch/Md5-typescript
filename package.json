@@ -23,7 +23,7 @@
     "typescript"
   ],
   "author": "Hipparchus",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Hipparch/Md5-typescript/issues"
   },
